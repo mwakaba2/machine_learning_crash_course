@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Lessons
 
 1. Predict Boston Housing Prices with Linear Regression (WIP)
-		a. Notebook Location: notebooks/linear_regression.ipynb
+	a. Notebook Location: notebooks/lesson_1_predict_boston_housing_prices.ipynb
 
 ## Resources
 [Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning)
