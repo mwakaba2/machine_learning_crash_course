@@ -1,3 +1,9 @@
+<!--
+  Title: Machine Learning Crash Course
+  Description: Interactive Machine Learning Applications
+  Author: mwakaba2
+  -->
+  
 # Machine Learning Crash Course
 Interactive Machine Learning Applications
 
