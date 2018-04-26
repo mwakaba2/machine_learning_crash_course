@@ -16,8 +16,17 @@ pip install -r requirements.txt
 
 ## Lessons
 
-1. Predict Boston Housing Prices with Linear Regression (WIP)
+1. Predict Boston Housing Prices with Linear Regression
 	a. Notebook Location: notebooks/lesson_1_predict_boston_housing_prices.ipynb
+	b. Covers the innerworkings of univariate and multivariate linear regression
+	c. Covers Gradient Descent and Normal Equation Algorithms
 
 ## Resources
+
+#### Great Beginner Machine Learning Courses
+* Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+
+## Citations
+
+ Diagrams and images are from the following course.
 [Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning)
