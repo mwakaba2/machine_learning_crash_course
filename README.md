@@ -17,9 +17,9 @@ pip install -r requirements.txt
 ## Lessons
 
 1. Predict Boston Housing Prices with Linear Regression
-	a. Notebook Location: notebooks/lesson_1_predict_boston_housing_prices.ipynb
-	b. Covers the innerworkings of univariate and multivariate linear regression
-	c. Covers Gradient Descent and Normal Equation Algorithms
+	* Notebook Location: notebooks/lesson_1_predict_boston_housing_prices.ipynb
+ 	* Covers the innerworkings of univariate and multivariate linear regression
+ 	* Covers Gradient Descent and Normal Equation Algorithms
 
 ## Resources
 
