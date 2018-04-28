@@ -3,7 +3,7 @@
   Description: Interactive Machine Learning Applications
   Author: mwakaba2
   -->
-  
+
 # Machine Learning Crash Course
 Interactive Machine Learning Applications
 
@@ -26,6 +26,9 @@ pip install -r requirements.txt
 	* Notebook Location: notebooks/lesson_1_predict_boston_housing_prices.ipynb
  	* Covers the innerworkings of univariate and multivariate linear regression
  	* Covers Gradient Descent and Normal Equation Algorithms
+2. Predict Breast Cancer with Logistic Regression
+	* Notebook Location: notebooks/lesson_2_predict_breast_cancer.ipynb
+	* Covers the innerworkings of binary logistic regression
 
 ## Resources
 
